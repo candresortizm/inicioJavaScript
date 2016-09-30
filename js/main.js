@@ -45,3 +45,6 @@ var arreglo=["a",5,true,"abc"];
 for(var pr in arreglo){
   console.log(arreglo[pr]);
 }
+
+var entrada = prompt("Mensaje");
+console.log(entrada);
